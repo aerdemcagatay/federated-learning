@@ -1,0 +1,9 @@
+[submodule "ui"]
+	path = ui
+	url = git@github.com:SmdBcr/federated-learning-ui.git
+[submodule "server"]
+	path = server
+	url = git@github.com:SmdBcr/federated-learning-server.git
+[submodule "client"]
+	path = client
+	url = git@github.com:SmdBcr/federated-learning-client.git
