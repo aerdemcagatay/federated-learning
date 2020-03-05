@@ -21,6 +21,6 @@ What will make this model so robust is the fact that the common machine learning
 @smdbcr [Mehmet Samed Biçer](https://github.com/SmdBcr)  
 @simalcubuk [Şimal Çubuk](https://github.com/simalcubuk)  
 
-made by :heart:	in Istanbul
+made with :heart:	in Istanbul
 
 ---
